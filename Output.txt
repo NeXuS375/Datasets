@@ -1,0 +1,26 @@
+     Year       Sun Activity
+0    1700           5.0
+1    1701          11.0
+2    1702          16.0
+3    1703          23.0
+4    1704          36.0
+..    ...           ...
+304  2004          40.4
+305  2005          29.8
+306  2006          15.2
+307  2007           7.5
+308  2008           2.9
+
+[309 rows x 2 columns]
+
+The mean value of sunspots activity is: 49.75210355987058
+The median of the sunspot activity is: 40.0
+The mode of the sunspot activity is: 5.0
+The standard deviation of the sunspot activity is: 40.45259495684408
+The variation of the sunspot activity is: 1636.4124387424872
+The range of the sunspot activity is: 190.2
+
+Duplicate Rows :
+Empty DataFrame
+Columns: [Year, Sun Activity]
+Index: []
